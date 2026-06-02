@@ -1,0 +1,8 @@
+*.tif
+*.zip
+*.jp2
+*.png
+*.html
+*.safe
+__pycache__/
+.ipynb_checkpoints/
